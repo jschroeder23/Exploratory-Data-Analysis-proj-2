@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-proj-2
-plots wouldnt show up in assignment so ther are here
+plots would'nt show up in assignment so the plot.pngs are here
